@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Almanot
-- 👀 I’m interested in game development, C# code, and robotics
-- 🌱 I’m currently learning .Net and Unity3D
+- 👀 I’m interested in game development and automation.
+- 🌱 I’m currently learning Python, javascript, typescript, PL/SQL
 - 💞️ I’m looking to collaborate on somethig.
 - 📫 How to reach me https://www.linkedin.com/in/maxim-balukov-70a08b193/
 
